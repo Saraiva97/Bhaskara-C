@@ -7,7 +7,7 @@
 - Oferecer uma experiência de aprendizado prática e envolvente na resolução de problemas matemáticos.
 
 <div align="center">
-<img src="https://github.com/Saraiva97/Bhaskara-C/assets/93497276/55fe9265-0849-4c33-8976-4a7972d1e103" style="width: 400px"/>
+<img src="https://github.com/Saraiva97/Bhaskara-C/assets/93497276/55fe9265-0849-4c33-8976-4a7972d1e103" style="width: 100px"/>
 </div>
 
 ## Como Funciona
