@@ -1,5 +1,5 @@
-# Bhaskara-C
-**Projeto: Calculadora de Bhaskara em C**
+
+# Projeto: Calculadora de Bhaskara em C
 
 **Objetivo do Projeto**
 - Desenvolver uma ferramenta eficiente para calcular as raízes de uma equação do segundo grau.
